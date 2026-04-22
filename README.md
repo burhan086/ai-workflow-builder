@@ -11,13 +11,6 @@ An agentic automation platform that translates plain English instructions into s
 ![Groq](https://img.shields.io/badge/Llama_3.3-Groq-orange?style=for-the-badge)
 
 
-![alt text](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-
-
-![alt text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-![alt text](https://img.shields.io/badge/Llama_3.3-Groq-orange?style=for-the-badge)
 
 🚀 Key Features
 
