@@ -1,6 +1,15 @@
-🛡️ AI Workflow Builder: Natural Language to Executable Pipelines
+# 🛡️ AI Workflow Builder: Natural Language to Executable Pipelines
 
-An agentic automation platform that translates plain English instructions into structured, executable API pipelines. By combining LLM orchestration with a dynamic execution engine, this tool allows users to build complex cross-platform workflows (GitHub, Discord, Slack) without writing a single line of code.
+An agentic automation platform that translates plain English instructions into structured, executable API pipelines. By combining **LLM orchestration** with a **dynamic execution engine**, this tool allows users to build complex cross-platform workflows without writing a single line of code.
+
+<!-- START: LIVE DEMO BADGE -->
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://burhan-ai-workflow-builder.streamlit.app/)
+<!-- END: LIVE DEMO BADGE -->
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Groq](https://img.shields.io/badge/Llama_3.3-Groq-orange?style=for-the-badge)
+
 
 ![alt text](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
