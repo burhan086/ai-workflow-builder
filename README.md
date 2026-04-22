@@ -1,5 +1,3 @@
-This README is designed to make your GitHub profile stand out to recruiters. It uses professional terminology, clearly explains the "Deep Learning" aspect, and shows off the system design.
-
 🛡️ AI Workflow Builder: Natural Language to Executable Pipelines
 
 An agentic automation platform that translates plain English instructions into structured, executable API pipelines. By combining LLM orchestration with a dynamic execution engine, this tool allows users to build complex cross-platform workflows (GitHub, Discord, Slack) without writing a single line of code.
