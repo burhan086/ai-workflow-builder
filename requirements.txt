@@ -1,0 +1,6 @@
+streamlit
+groq
+pydantic
+graphviz
+python-dotenv
+requests
