@@ -1,6 +1,7 @@
 # 🛡️ AI Workflow Builder: Natural Language to Executable Pipelines
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://burhan-ai-workflow-builder.streamlit.app/)
+https://burhan-ai-workflow-builder.streamlit.app/
+
 
 An agentic automation platform that translates plain English into structured API pipelines using **Llama-3.3-70B**.
 
