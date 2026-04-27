@@ -22,4 +22,4 @@ graph TD
     B --> C[Execution Engine]
     C --> D[GitHub Tool]
     D --> E[AI Summarizer]
-    E --> F[Discord/Slack
+    E --> F[Discord/Slack]
